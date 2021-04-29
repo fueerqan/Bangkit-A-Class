@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bangkit A Class</string>
+    <string name="add_book_label">Add Book</string>
 </resources>
